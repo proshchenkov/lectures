@@ -273,9 +273,9 @@ Cледовательно
 Виды
 
 - Персональные компьютеры
- + настольные - Windows, Linux, Mac OS
- + переносные - Windows, Mac OS, Linux
- + наладонные - Linux, Mac OS, Windows
+  + настольные - Windows, Linux, Mac OS
+  + переносные - Windows, Mac OS, Linux
+  + наладонные - Linux, Mac OS, Windows
 - Серверы - малые - Windows, Linux, Mac OS
 - Серверы - большие - Linux, Mac OS, Windows
 - Мэйнфреймы - UNIX, Linux
