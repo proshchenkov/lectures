@@ -7,7 +7,7 @@
 - Робачевский А.М. Операционная система Unix.
 - [Линус Торвальдс, Дэвид Даймонд. Just for fun](http://www.lib.ru/LINUXGUIDE/torvalds_jast_for_fun.txt_with-big-pictures.html)
 
-Оглавление
+### Оглавление
 
 - [Операционная система](#Лекция-1)
 - [MS-DOS](#Лекция-2)
